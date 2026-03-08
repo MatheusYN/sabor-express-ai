@@ -1,0 +1,9 @@
+origem,destino,distancia
+A,B,2
+A,C,4
+B,D,7
+C,D,1
+B,E,3
+D,E,2
+C,F,5
+E,F,4
