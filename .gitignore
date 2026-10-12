@@ -1,0 +1,25 @@
+
+# Ambiente virtual e arquivos Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Segredos e variáveis de ambiente
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+credentials/
+
+# Configurações locais do editor
+.vscode/
+.idea/
+
+# Arquivos temporários e logs
+*.log
+*.tmp
+
+# Resultados locais que não devem ser publicados

@@ -1,0 +1,11 @@
+id,name,x,y
+A,Restaurante Sabor Express,0,0
+B,Centro Norte,2,1
+C,Centro Sul,2,-1
+D,Praca Central,4,1
+E,Mercado Municipal,4,-1
+F,Bairro Leste,6,2
+G,Bairro Oeste,6,0
+H,Hospital Central,8,1
+I,Escola Municipal,8,-1
+J,Residencial Sul,10,0
