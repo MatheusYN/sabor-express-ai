@@ -122,6 +122,22 @@ A distância total calculada foi de **10,472 unidades de distância**, interpret
 
 Os dois algoritmos encontraram o mesmo custo para esse percurso. Os testes automatizados também verificaram a igualdade dos custos, os pontos inicial e final da rota e a formação de três grupos contendo as nove entregas.
 
+### 7.1. Rota otimizada com o algoritmo A*
+
+O diagrama abaixo apresenta a rota calculada pelo algoritmo A*, destacando o caminho encontrado entre os pontos de origem e destino no grafo simulado.
+
+### Diagramas do Projeto - Rota otimizada com A*
+
+![Rota calculada pelo algoritmo A*](outputs/rota_astar.png)
+
+### 7.2. Agrupamento de entregas com K-Means
+
+A imagem a seguir apresenta a distribuição dos pontos de entrega em três grupos, utilizando o algoritmo K-Means. Essa organização permite visualizar regiões de concentração das entregas e pode auxiliar no planejamento operacional.
+
+### Agrupamento de entregas com K-Means
+
+![Agrupamento de entregas com K-Means](outputs/grupos_kmeans.png)
+
 ### Evidências visuais
 
 O programa gera os seguintes arquivos na pasta `outputs`:
